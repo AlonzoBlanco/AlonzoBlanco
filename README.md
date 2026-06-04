@@ -5,6 +5,4 @@ What I'm currently working on:<br>*   Building real-time data analysis models us
 
 Tech Stack<br>*   **Languages:** Python, Java, C++, SQL, VHDL.<br>*   **Tools & Frameworks:** Git, Linux, PyTorch, TensorFlow, XGBoost, Streamlit.<br>*   **Data & Analytics:** Power BI, Microsoft Excel, NumPy, Matplotlib.<br><br>
 
-Let's Talk<br>* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-blanco-634413284)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
